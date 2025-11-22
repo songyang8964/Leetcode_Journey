@@ -36,7 +36,7 @@ class Solution {
                 pq.add(new Freq(key, map.get(key)));
             else if(map.get(key) > pq.peek().freq){
                 pq.remove();
-                pq.remove(new Freq(key, map.get(key)));
+                pq.add(new Freq(key, map.get(key)));
             }
         }
         int n = pq.size(); // 或者 k
