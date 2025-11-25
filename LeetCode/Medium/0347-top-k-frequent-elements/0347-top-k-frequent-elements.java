@@ -1,5 +1,5 @@
 class Solution {
-        private class Freq implements Comparable<Freq> {
+        private class Freq {
         int e, freq;
 
         // 构造器，对成员变量进行初始化
@@ -7,17 +7,12 @@ class Solution {
             this.e = e;
             this.freq = freq;
         }
+    }
 
+        private class FreqComparator implements Comparator<Freq> {
         @Override
-        // 我们希望：频次越“低”的元素，反而被视为“优先级越高”（为了把它放在堆顶踢出去）。
-        public int compareTo(Freq another) {
-            if (this.freq < another.freq) {
-                return -1;
-            } else if (this.freq > another.freq) {
-                return 1;
-            } else {
-                return 0;
-            }
+        public int compare(Freq a, Freq b) {
+            return a.freq - b.freq;
         }
     }
 
@@ -30,7 +25,7 @@ class Solution {
                 map.put(num, 1);
         }
 
-        PriorityQueue<Freq> pq = new PriorityQueue<>();
+        PriorityQueue<Freq> pq = new PriorityQueue<>(new FreqComparator());
         for(int key: map.keySet()){
             if(pq.size() < k)
                 pq.add(new Freq(key, map.get(key)));
