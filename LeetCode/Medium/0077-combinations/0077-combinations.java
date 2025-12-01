@@ -1,6 +1,6 @@
 class Solution {
         List<List<Integer>> results = new ArrayList<>();
-    Stack<Integer> path = new Stack<>();
+    List<Integer> path = new ArrayList<>();
     public List<List<Integer>> combine(int n, int k) {
         backtracking(n, k ,1);
         return results;
@@ -14,9 +14,9 @@ class Solution {
             return;
         }
         for (int i = startIndex; i <= n; i++) {
-            path.push(i);
+            path.add(i);
             backtracking(n,k,i+1);
-            path.pop();
+            path.remove(path.size() - 1);
 
         }
     }
