@@ -14,19 +14,12 @@
  * }
  */
 class Solution {
-    private int size = 0;
     public int countNodes(TreeNode root) {
-        traverse(root);
-        return size;
-    }
-
-    private void traverse(TreeNode node) {
-        if (node == null) {
-            return;
+                if (root == null) {
+            return 0;
         }
-        size++;
-        traverse(node.left);
-        traverse(node.right);
+        int leftCounts = countNodes(root.left);
+        int rightCounts = countNodes(root.right);
+        return 1 + leftCounts + rightCounts;
     }
-        
 }
