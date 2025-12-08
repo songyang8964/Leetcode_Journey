@@ -14,31 +14,34 @@
  * }
  */
 class Solution {
+        // maxDepth定义为极小值, 保证任何深度的节点都能覆盖它
+    private int maxDepth = Integer.MIN_VALUE;
+    private int result = 0;
+
     public int findBottomLeftValue(TreeNode root) {
-            if (root == null) {
-            return 0;
-        }
-        List<List<TreeNode>> results = new ArrayList<>();
-        Queue<TreeNode> queue = new LinkedList<TreeNode>();
-        queue.offer(root);
-        while (!queue.isEmpty()) {
-            List<TreeNode> currentLevel = new LinkedList<TreeNode>();
-            int size = queue.size();
-            while (size > 0) {
-                TreeNode node = queue.poll();
-                size--;
-                currentLevel.add(node);
-                if (node.left != null) {
-                    queue.offer(node.left);
-                }
-                if (node.right != null) {
-                    queue.offer(node.right);
-                }
+        // 初始深度为0
+        traversal(root, 0);
+        return result;
+
+    }
+
+    private void traversal(TreeNode node, int depth) {
+        if (node.left == null && node.right == null) {
+            if (depth > maxDepth) {
+                maxDepth = depth;
+                result = node.val;
             }
-            results.add(currentLevel);
+            return;
         }
-        List<TreeNode> treeNodeList = results.get(results.size() - 1);
-        return treeNodeList.get(0).val;
-        
+        if (node.left != null) {
+            depth++;
+            traversal(node.left, depth);
+            depth--;
+        }
+        if (node.right != null) {
+            depth++;
+            traversal(node.right, depth);
+            depth--;
+        }
     }
 }
