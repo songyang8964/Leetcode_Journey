@@ -1,19 +1,17 @@
 class NumArray {
-    private int[] data;
+    private int[] preSum;
 
-    // 区间和检索，数组不可变
     public NumArray(int[] nums) {
-        this.data = nums;
+        preSum = new int[nums.length + 1];
+        preSum[0] = 0;
+        for (int i = 1; i < preSum.length; i++) {
+            preSum[i] = preSum[i - 1] + nums[i - 1];
+        }
 
     }
 
     public int sumRange(int left, int right) {
-        int sum = 0;
-        for (int i = left; i <= right; i++) {
-            sum = sum + data[i];
-
-        }
-        return sum;
+        return preSum[right + 1] - preSum[left];
     }
 }
 
