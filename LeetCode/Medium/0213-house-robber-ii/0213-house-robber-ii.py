@@ -17,7 +17,7 @@ class Solution:
         if len(nums) == 2:
             return max(nums[0], nums[1])
         
-        case_B = self.rob_linear(nums, 0, len(nums) - 2)
-        case_C = self.rob_linear(nums, 1, len(nums) - 1)
+        case_A = self.rob_linear(nums, 0, len(nums) - 2)
+        case_B = self.rob_linear(nums, 1, len(nums) - 1)
         
-        return max(case_B, case_C)
+        return max(case_B, case_A)
