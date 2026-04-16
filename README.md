@@ -101,4 +101,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
