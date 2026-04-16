@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
@@ -94,5 +95,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
