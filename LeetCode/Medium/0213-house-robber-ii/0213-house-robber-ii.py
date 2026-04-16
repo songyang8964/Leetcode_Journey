@@ -3,7 +3,7 @@ from typing import List
 class Solution:
     
     def rob_linear(self, nums: List[int], start: int, end: int) -> int:
-        n = end - start + 1
+        n = len(nums) - 1
         dp = [0] * n
         dp[0] = nums[start]
         dp[1] = max(nums[start], nums[start + 1])
