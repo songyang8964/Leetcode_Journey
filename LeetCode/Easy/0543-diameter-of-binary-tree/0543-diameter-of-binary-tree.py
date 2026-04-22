@@ -16,6 +16,7 @@ class Solution:
             return 0
         leftMax = self.maxDepth(root.left)
         rightMax = self.maxDepth(root.right)
+        # 只有在 maxDepth 里，才同时拥有 leftMax 和 rightMax
         currentDiameter = leftMax + rightMax
         self.maxDiameter = max(self.maxDiameter, currentDiameter)
 
