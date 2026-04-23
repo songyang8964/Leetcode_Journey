@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,5 +152,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
