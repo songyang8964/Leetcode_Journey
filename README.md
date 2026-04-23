@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
