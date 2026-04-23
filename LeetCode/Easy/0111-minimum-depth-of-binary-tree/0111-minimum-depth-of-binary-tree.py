@@ -9,14 +9,18 @@ class Solution:
         if not root:
             return 0
 
-        if not root.left and not root.right:
-            return 1
-        
-        if not root.right:
-            return 1 + self.minDepth(root.left)
-        if not root.left:
-            return 1 + self.minDepth(root.right)
+        queue = deque([(root, 1)])
 
-        return 1 + min(self.minDepth(root.left), self.minDepth(root.right))
+        while queue:
+            root, depth = queue.popleft() # 取出当前节点和深度
+            if not root.left and not root.right:
+                return depth
+
+            if root.left:
+                queue.append((root.left, depth + 1))
+
+            if root.right:
+                queue.append((root.right, depth + 1))
+
 
         
