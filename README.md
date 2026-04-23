@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0543-diameter-of-binary-tree/) | Easy |
