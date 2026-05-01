@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
