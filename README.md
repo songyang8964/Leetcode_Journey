@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +167,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
