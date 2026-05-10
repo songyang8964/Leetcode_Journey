@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0086-partition-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
