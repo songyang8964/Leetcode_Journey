@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
