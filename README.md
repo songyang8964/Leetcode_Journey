@@ -16,12 +16,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
