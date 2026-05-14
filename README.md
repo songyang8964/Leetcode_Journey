@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,4 +222,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0797-all-paths-from-source-to-target/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
