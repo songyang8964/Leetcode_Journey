@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
