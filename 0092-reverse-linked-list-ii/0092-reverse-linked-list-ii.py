@@ -12,11 +12,13 @@ class Solution:
         for _ in range(left - 1):
             pre = pre.next
         
+        # 记录 successor（第 right+1 个节点）
         right_node = pre
         for _ in range(right - left + 1):
             right_node = right_node.next
         successor = right_node.next
 
+        #  执行部分反转操作
         left_node = pre.next
         right_node.next = None
 
