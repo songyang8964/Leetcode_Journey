@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0704-binary-search](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
