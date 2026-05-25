@@ -1,10 +1,10 @@
 class Solution:
     def removeElement(self, nums: List[int], val: int) -> int:
-        slow, fast = 0,0
+        slow, fast = 0, 0
         while fast < len(nums):
             if nums[fast] != val:
                 nums[slow] = nums[fast]
                 slow = slow + 1
             fast = fast + 1
-        return slow 
+        return slow
         
