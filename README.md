@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Prefix Sum
