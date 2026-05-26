@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
