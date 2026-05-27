@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
@@ -105,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -136,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
@@ -288,5 +292,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
