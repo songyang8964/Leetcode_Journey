@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
+| [0383-ransom-note](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0567-permutation-in-string](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [0567-permutation-in-string](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 ## Sliding Window
@@ -283,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
