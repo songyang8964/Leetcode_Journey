@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0567-permutation-in-string](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
@@ -134,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -148,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/1004-max-consecutive-ones-iii/) | Medium |
 ## String
