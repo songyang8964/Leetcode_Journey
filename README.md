@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0143-reorder-list](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
@@ -237,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/songyang8964/Leetcode_Journey/tree/main/LeetCode/Medium/0515-find-largest-value-in-each-tree-row/) | Medium |
